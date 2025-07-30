@@ -43,7 +43,7 @@ Puedes instalar los paquetes ejecutando:
 pip install -r requirements.txt
 ```
 
-> Alternativamente, puedes usar Anaconda o Google Colab si no deseas instalar localmente.
+Alternativamente, puedes usar Anaconda o Google Colab si no deseas instalar localmente.
 
 ---
 
