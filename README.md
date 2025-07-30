@@ -64,7 +64,7 @@ Este repositorio se actualizará al menos una vez por semana con:
 - Archivos de actividades evaluadas
 - Enunciados de tareas y entregables del proyecto
 
-> Recuerda activar las notificaciones para recibir alertas sobre nuevas publicaciones.
+**Recuerda activar las notificaciones para recibir alertas sobre nuevas publicaciones.**
 
 ---
 
