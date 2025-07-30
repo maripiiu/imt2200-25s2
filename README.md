@@ -41,8 +41,46 @@ Puedes instalar los paquetes ejecutando:
 
 ```bash
 pip install -r requirements.txt
+```
 
-Alternativamente, puedes usar Anaconda o Google Colab si no deseas instalar localmente.
+> Alternativamente, puedes usar Anaconda o Google Colab si no deseas instalar localmente.
 
 ---
-License: [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+## 🚀 ¿Cómo usar este repositorio?
+
+1. **Clona o haz fork** de este repositorio a tu cuenta personal.
+2. **Activa las notificaciones** para enterarte cuando se actualice el material.
+3. Sigue el calendario semanal del curso y revisa las carpetas correspondientes a cada clase o actividad.
+4. Entrega las tareas y el proyecto utilizando tu repositorio privado personal asignado por el equipo docente.
+
+---
+
+## 🔄 Actualizaciones
+
+Este repositorio se actualizará al menos una vez por semana con:
+
+- Material para las clases
+- Archivos de actividades evaluadas
+- Enunciados de tareas y entregables del proyecto
+
+> Recuerda activar las notificaciones para recibir alertas sobre nuevas publicaciones.
+
+---
+
+## 🛡️ Integridad académica
+
+Todos los trabajos individuales deben ser desarrollados sin colaboración externa.  
+Las políticas de integridad académica de la Universidad se aplicarán estrictamente. Más información en:  
+[https://admisionyregistros.uc.cl/alumnos/novatos/reglamentos-estudiantiles](https://admisionyregistros.uc.cl/alumnos/novatos/reglamentos-estudiantiles)
+
+---
+
+## 📚 Licencia
+
+Este repositorio y su contenido están disponibles bajo la licencia [Creative Commons CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/).  
+Puedes reutilizar y adaptar el material con la debida atribución.
+
+---
+
+¡Bienvenidos al curso! :rocket:
