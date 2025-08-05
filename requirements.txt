@@ -1,6 +1,8 @@
-pandas
 numpy
+pandas
 matplotlib
-seaborn
 scikit-learn
-jupyterlab
+seaborn
+beautifulsoup4
+geopandas
+jupyter
