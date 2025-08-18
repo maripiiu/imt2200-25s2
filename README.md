@@ -3,6 +3,8 @@
 :octocat: Repositorio en GitHub del Curso – Segundo Semestre 2025  
 **Profesor:** Rodrigo A. Carrasco ([rcarrass@uc.cl](mailto:rcarrass@uc.cl))
 
+**Alumno: Felipe Sebastián Subiabre Mejías**
+
 Este repositorio contiene todo el material del curso **IMT2200 - Introducción a la Ciencia de Datos**, impartido por el Instituto de Ingeniería Matemática y Computacional de la Pontificia Universidad Católica de Chile.
 
 Aquí encontrarás clases, actividades, tareas, interrogaciones, y el proyecto final del curso.
